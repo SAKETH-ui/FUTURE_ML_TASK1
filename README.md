@@ -4,7 +4,7 @@
 ## Predictions and Analysis
 
 ### Graph 1: Actual vs Predicted Values
-![Actual vs Predicted](<img width="743" height="383" alt="Screenshot 2026-06-02 134935" src="https://github.com/user-attachments/assets/982f85da-a90c-469e-af94-e920575b80d5" />![Uploading Screenshot 2026-06-02 134729.png…]()
+![Actual vs Predicted](<img width="743" height="383" alt="Screenshot 2026-06-02 134935" src="https://github.com/user-attachments/assets/982f85da-a90c-469e-af94-e920575b80d5" /><img width="743" height="343" alt="Screenshot 2026-06-02 134729" src="https://github.com/user-attachments/assets/b683f278-53a0-43c1-8534-fe1e29d890b2" />
 )
 
 This graph shows the comparison between actual and predicted values over the dataset. The blue line represents the actual values, while the orange line represents the predicted values from the ML model.
@@ -15,7 +15,8 @@ This graph shows the comparison between actual and predicted values over the dat
 - Model captures the general trend but may underestimate peak values
 
 ### Graph 2: Sales Trend Over Time
-![Sales Trend Over Time](<img width="743" height="383" alt="Screenshot 2026-06-02 134935" src="https://github.com/user-attachments/assets/982f85da-a90c-469e-af94-e920575b80d5" />)
+![Sales Trend Over Time](![Uploading Screenshot 2026-06-02 134729.png…]()
+)
 
 This graph displays the sales trend from January 2015 to January 2019. Multiple peaks and valleys are visible, indicating seasonal and temporal variations in sales data.
 
