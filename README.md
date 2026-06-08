@@ -1,9 +1,11 @@
+
 # FUTURE_ML_TASK1
 
 ## Predictions and Analysis
 
 ### Graph 1: Actual vs Predicted Values
-![Actual vs Predicted](image1.png)
+![Actual vs Predicted](<img width="743" height="383" alt="Screenshot 2026-06-02 134935" src="https://github.com/user-attachments/assets/982f85da-a90c-469e-af94-e920575b80d5" />![Uploading Screenshot 2026-06-02 134729.png…]()
+)
 
 This graph shows the comparison between actual and predicted values over the dataset. The blue line represents the actual values, while the orange line represents the predicted values from the ML model.
 
@@ -13,7 +15,7 @@ This graph shows the comparison between actual and predicted values over the dat
 - Model captures the general trend but may underestimate peak values
 
 ### Graph 2: Sales Trend Over Time
-![Sales Trend Over Time](image2.png)
+![Sales Trend Over Time](<img width="743" height="383" alt="Screenshot 2026-06-02 134935" src="https://github.com/user-attachments/assets/982f85da-a90c-469e-af94-e920575b80d5" />)
 
 This graph displays the sales trend from January 2015 to January 2019. Multiple peaks and valleys are visible, indicating seasonal and temporal variations in sales data.
 
